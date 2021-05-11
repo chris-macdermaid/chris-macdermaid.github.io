@@ -9,8 +9,8 @@ let background = new ol.layer.Tile({
   
   let style = new ol.style.Style({
     stroke: new ol.style.Stroke({
-      color: 'rgb(255, 175, 109)',
-      width: 3,
+      color: 'rgb(0, 0, 0)',
+      width: 2,
       opacity: 1,
     })
   });
