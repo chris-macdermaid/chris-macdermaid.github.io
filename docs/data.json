@@ -18,7 +18,7 @@
  {"@type": "dcat:Distribution", "accessURL": "https://data-usfs.hub.arcgis.com/datasets/3451bcca1dbc45168ed0b3f54c6098d3_0.zip?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D", "format": "ZIP", "mediaType": "application/zip", "title": "Shapefile"},
  {"@type": "dcat:Distribution", "accessURL": "https://apps.fs.usda.gov/arcx/services/EDW/EDW_ProclaimedForestBoundaries_01/MapServer/WMSServer?request=GetCapabilities&service=WMS", "format": "OGC WMS", "mediaType": "application/vnd.ogc.wms_xml", "title": "OGC WMS"}],
  "relation": [{"@type": "dcat:references", "conformsTo": "http://www.isotc211.org/2005/gmi", "description": "The geospatial metadata description of this dataset", "downloadURL": "https://data.fs.usda.gov/offline/S_USA_ProclaimedForest_ISO.xml", "format": "XML", "mediaType": "text/xml", "title": "ISO-19139 Original Metadata"}],
- "identifier": "https://data-usfs.hub.arcgis.com/datasets/3451bcca1dbc45168ed0b3f54c6098d3_0", "issued": "2017-04-14",
+ "identifier": "3451bcca1dbc45168ed0b3f54c6098d3_0", "issued": "2017-04-14",
  "keyword": ["NFS Lands", "NGDA", "ALP Land Dataset", "boundaries", "Land Status", "Proclaimed Forest",
  "planningCadastre", "Forest Name", "Land Use-Land Cover", "USDA Forest Service", "National Geospatial Data Asset", "Open Data"],
  "landingPage": "https://data-usfs.hub.arcgis.com/datasets/3451bcca1dbc45168ed0b3f54c6098d3_0", "license": "https://creativecommons.org/licenses/by/4.0/", "modified": "2021-02-18", "programCode": ["005:059"], "publisher": {"name": "U.S. Forest Service"}, "spatial": "-150.4,16,-64,64", "theme": ["NGDA", "National Geospatial Data Asset", "Cadastre Theme"], "title": "FS National Forests Dataset (US Forest Service Proclaimed Forests)"}]}
